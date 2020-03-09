@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7cde202-b376-4177-b2cb-28e6db57f9bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SgsFB08mxQWQpYKS5lWQcHjmCx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../calculator" />
+  </component>
+  <component name="RunManager">
+    <configuration name="QuickCheckSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="progfun2-quickcheck" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="quickcheck.QuickCheckSuite" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.QuickCheckSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-quickcheck" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/slava/scala/CourseraTasks/quickcheck/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-quickcheck-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="18232655112000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="4135522419" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2286689913" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="1290868088" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="1185184919" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="288196450" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3362305541" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="4288349219" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="2076816827" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="1430858080" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="934637055" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="3364732609" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3604734976" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/forcomp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/patmat" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../streams" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7cde202-b376-4177-b2cb-28e6db57f9bc" name="Default Changelist" comment="" />
+      <created>1571996466224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571996466224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1572366360697">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1572366360697" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1572448493973">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1572448493973" />
+    <state width="1253" height="264" key="GridCell.Tab.0.bottom" timestamp="1572448495665">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="264" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1572448495665" />
+    <state width="1253" height="264" key="GridCell.Tab.0.center" timestamp="1572448495664">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="264" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1572448495664" />
+    <state width="1253" height="264" key="GridCell.Tab.0.left" timestamp="1572448495664">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="264" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1572448495664" />
+    <state width="1253" height="264" key="GridCell.Tab.0.right" timestamp="1572448495665">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="264" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1572448495665" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1572174963601">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1572174963601" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1572176103340">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1572176103340" />
+  </component>
+</project>

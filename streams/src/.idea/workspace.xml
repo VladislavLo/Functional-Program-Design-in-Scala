@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6908efe-5e2b-425f-95bd-72f859ed3fdd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SdX02wsxEoQpxwrdL1VabSpKyi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6908efe-5e2b-425f-95bd-72f859ed3fdd" name="Default Changelist" comment="" />
+      <created>1571894220041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571894220041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="313" width="559" height="167" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1571894233526">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="432" y="313" width="559" height="167" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/67.27.1299.741@67.27.1299.741" timestamp="1571894233526" />
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1571894256205">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1571894256205" />
+    <state x="294" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1571894239915">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="294" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/67.27.1299.741@67.27.1299.741" timestamp="1571894239915" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1571894535495">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1571894535495" />
+    <state x="572" y="354" width="279" height="84" key="NewModule_or_Project.wizard" timestamp="1571894537422">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="572" y="354" width="279" height="84" key="NewModule_or_Project.wizard/67.27.1299.741@67.27.1299.741" timestamp="1571894537422" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1571894497443">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1571894497443" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1571894526221">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1571894526221" />
+  </component>
+</project>
